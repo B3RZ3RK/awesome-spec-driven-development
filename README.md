@@ -1,4 +1,4 @@
-# Awesome Spec-Driven Development [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Spec-Driven Development with AI Assistants [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome resources for Spec-Driven Development (SDD) - the practice of writing specifications first to guide development, testing, and documentation.
 
