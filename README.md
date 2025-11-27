@@ -1,12 +1,10 @@
 # Awesome Spec-Driven Development with AI Assistants [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome resources for Spec-Driven Development (SDD) - the practice of writing specifications first to guide development, testing, and documentation.
+> A curated list of awesome tools for Spec-Driven Development (SDD) - the practice of writing specifications first to guide development, testing, and documentation.
 
 [Spec-Driven Development](https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit) is a methodology where comprehensive specifications are created before implementation begins. This approach ensures better alignment between requirements and delivery, improves code quality, and facilitates better testing and documentation.
 
-## Resources
-
-### Tools & Frameworks
+## Tools & Frameworks
 
 - [cc-sdd](https://github.com/gotalab/cc-sdd) ![](https://img.shields.io/github/stars/gotalab/cc-sdd.svg) - Collaborative spec-driven development tool for writing specifications alongside code.
 
@@ -38,4 +36,4 @@
 
 ## Contributing
 
-Contributions are welcome! Please feel free to submit a pull request to add more resources to this awesome list.
+Contributions are welcome! Please feel free to submit a pull request to add more tools to this awesome list.
