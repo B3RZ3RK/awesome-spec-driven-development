@@ -34,6 +34,10 @@
 
 - [spec-kit-command-cursor](https://github.com/madebyaris/spec-kit-command-cursor) ![](https://img.shields.io/github/stars/madebyaris/spec-kit-command-cursor.svg) - Spec-driven development toolkit for Cursor IDE that turns ideas into specs, plans, and actionable tasks.
 
+- [vibe-kanban](https://github.com/BloopAI/vibe-kanban) ![](https://img.shields.io/github/stars/BloopAI/vibe-kanban.svg) - Kanban board system for managing spec-driven development workflows.
+
+- [VibeDoc](https://github.com/JasonRobertDestiny/VibeDoc) ![](https://img.shields.io/github/stars/JasonRobertDestiny/VibeDoc.svg) - Documentation tool for spec-driven development workflows.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request to add more tools to this awesome list.
