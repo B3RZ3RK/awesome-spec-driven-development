@@ -30,9 +30,13 @@
 
 - [Spec Kitty](https://github.com/Priivacy-ai/spec-kitty) ![](https://img.shields.io/github/stars/Priivacy-ai/spec-kitty.svg) - AI development dashboard and workflow automation platform for spec-driven development.
 
+- [VibeDoc](https://github.com/JasonRobertDestiny/VibeDoc) ![](https://img.shields.io/github/stars/JasonRobertDestiny/VibeDoc.svg) - Documentation tool for spec-driven development workflows.
+
 - [spec-driver](https://github.com/davidlee/spec-driver) ![](https://img.shields.io/github/stars/davidlee/spec-driver.svg) - Reimagines specs as evergreen truth systems that emit deltas to conform code to vision.
 
 - [spec-kit-command-cursor](https://github.com/madebyaris/spec-kit-command-cursor) ![](https://img.shields.io/github/stars/madebyaris/spec-kit-command-cursor.svg) - Spec-driven development toolkit for Cursor IDE that turns ideas into specs, plans, and actionable tasks.
+
+- [vibe-kanban](https://github.com/BloopAI/vibe-kanban) ![](https://img.shields.io/github/stars/BloopAI/vibe-kanban.svg) - Kanban board system for managing spec-driven development workflows.
 
 ## Contributing
 
