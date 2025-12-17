@@ -8,6 +8,8 @@
 
 - [agents.md](https://github.com/agentsmd/agents.md) ![](https://img.shields.io/github/stars/agentsmd/agents.md.svg) - Markdown-based specification format for defining AI agent behaviors and capabilities.
 
+- [FPF](https://github.com/ailev/FPF) ![](https://img.shields.io/github/stars/ailev/FPF.svg) - First Principles Framework - Rigorous specification framework for modeling systems, methods, and knowledge with auditable assurance levels and machine-readable patterns.
+
 ## Tools
 
 - [cc-sdd](https://github.com/gotalab/cc-sdd) ![](https://img.shields.io/github/stars/gotalab/cc-sdd.svg) - Collaborative spec-driven development tool for writing specifications alongside code.
@@ -27,6 +29,8 @@
 - [MoAI-ADK](https://github.com/modu-ai/moai-adk) ![](https://img.shields.io/github/stars/modu-ai/moai-adk.svg) - Framework combining spec-first development, TDD, and AI agents for transparent development lifecycle.
 
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) ![](https://img.shields.io/github/stars/Fission-AI/OpenSpec.svg) - Aligns developers and AI assistants on specifications before code is written.
+
+- [quint-code](https://github.com/m0n0x41d/quint-code) ![](https://img.shields.io/github/stars/m0n0x41d/quint-code.svg) - Structured reasoning framework for AI coding tools implementing hypothesis-driven spec development with automated design rationale records.
 
 - [Shotgun](https://github.com/shotgun-sh/shotgun) ![](https://img.shields.io/github/stars/shotgun-sh/shotgun.svg) - Codebase-aware spec writing tool that keeps AI coding agents on track.
 
