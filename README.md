@@ -28,6 +28,8 @@
 
 - [OpenSpec](https://github.com/Fission-AI/OpenSpec) ![](https://img.shields.io/github/stars/Fission-AI/OpenSpec.svg) - Aligns developers and AI assistants on specifications before code is written.
 
+- [quint-code](https://github.com/m0n0x41d/quint-code) ![](https://img.shields.io/github/stars/m0n0x41d/quint-code.svg) - Structured reasoning framework for AI coding tools implementing hypothesis-driven spec development with automated design rationale records.
+
 - [Shotgun](https://github.com/shotgun-sh/shotgun) ![](https://img.shields.io/github/stars/shotgun-sh/shotgun.svg) - Codebase-aware spec writing tool that keeps AI coding agents on track.
 
 - [Spec Kit](https://github.com/github/spec-kit) ![](https://img.shields.io/github/stars/github/spec-kit.svg) - Focuses developers on product scenarios and predictable outcomes over ad-hoc coding.
